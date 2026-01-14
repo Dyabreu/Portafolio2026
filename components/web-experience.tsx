@@ -32,7 +32,7 @@ export function WebExperience() {
             <p className="text-muted-foreground leading-relaxed">
               Professional experience working on a large enterprise financial web application used to manage internal
               company projects. The system involved complex business logic including calculations, categorizations, and
-              integration with multiple external APIs.
+              integration with multiple external APIs. Collaboration within a large enterprise development team.
             </p>
 
             <ul className="space-y-2">

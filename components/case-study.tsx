@@ -100,11 +100,10 @@ export function CaseStudy() {
           <div className="space-y-8">
             <div>
               <h3 className="text-2xl font-semibold text-foreground mb-3">Used iPhone Business Management System</h3>
-              <p className="text-sm text-muted-foreground mb-4">Desktop Application</p>
+              <p className="text-sm text-muted-foreground mb-4">Desktop Application (WPF / .NET)</p>
               <p className="text-muted-foreground leading-relaxed">
                 A desktop application built with WPF (.NET) to manage the complete operations of a business focused on
-                selling used iPhones and accessories. Unlike traditional inventory systems, each used iPhone is treated
-                as a unique entity with its own characteristics based on usage and condition.
+                selling used iPhones and accessories. Unlike traditional inventory systems, each used iPhone is treated as a unique entity, with its own lifecycle, condition, and financial impact.
               </p>
             </div>
 

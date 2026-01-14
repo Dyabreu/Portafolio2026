@@ -18,19 +18,6 @@ export function TechStack() {
             <h2 className="text-sm font-medium text-foreground uppercase tracking-wide">Tech Stack</h2>
           </div>
           <div className="space-y-8">
-            <div className="flex flex-wrap gap-2">
-              {Object.values(technologies)
-                .flat()
-                .map((tech) => (
-                  <Badge
-                    key={tech}
-                    variant="outline"
-                    className="font-normal text-foreground border-border hover:bg-secondary transition-colors"
-                  >
-                    {tech}
-                  </Badge>
-                ))}
-            </div>
 
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               <div>

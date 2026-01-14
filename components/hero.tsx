@@ -14,8 +14,7 @@ export function Hero() {
             Full Stack Developer (.NET & Angular)
           </p>
           <p className="text-base md:text-lg text-muted-foreground leading-relaxed max-w-2xl">
-            I build business-oriented applications with complex data models, dashboards and real-world workflows,
-            choosing the right technology for each context.
+            I build business-oriented applications with complex data models, dashboards, and real-world workflows, focusing on maintainable architecture and long-term scalability.
           </p>
           <div className="mt-10 flex items-center gap-6">
             <Link
